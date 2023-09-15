@@ -26,7 +26,27 @@ img{
     margin:20px;
     border-top-right-radius:30px;
 }
+nav{
+    border: 2px solid black;
+    padding: 5px;
+}
 li{
     display:inline-block;
     margin-left:50px;
+}
+nav a{
+    background-color:darkblue;
+    padding:1px;
+    margin: 20px;
+    color:white;
+}
+
+#jump{
+    text-transform: uppercase;
+}
+
+.thumbnail{
+    border: 5px solid white;
+    padding: 10px;
+    display:block;
 }
